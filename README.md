@@ -6,6 +6,10 @@ This is a Game of Thrones inspired Hangman game played using a CLI. The user has
 
 ![Hangman Demo](https://media.giphy.com/media/ZNYrcJaOQqEMWPbn1q/giphy.gif)
 
+## How to Play
+
+Clone the repo locally and type `npm install` to install all node dependencies locally. Then simply type `node hangman.js` into your terminal and have fun! 
+
 ## Technologies Used
 
 - Javascript
